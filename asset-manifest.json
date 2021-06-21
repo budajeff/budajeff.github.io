@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.2158d86c.chunk.css",
-    "main.js": "/static/js/main.a4b5c201.chunk.js",
-    "main.js.map": "/static/js/main.a4b5c201.chunk.js.map",
+    "main.css": "/static/css/main.bd275f28.chunk.css",
+    "main.js": "/static/js/main.2565ad09.chunk.js",
+    "main.js.map": "/static/js/main.2565ad09.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ba905040.js",
     "runtime-main.js.map": "/static/js/runtime-main.ba905040.js.map",
     "static/js/2.dc437ead.chunk.js": "/static/js/2.dc437ead.chunk.js",
@@ -10,10 +10,11 @@
     "static/js/3.5c32644e.chunk.js": "/static/js/3.5c32644e.chunk.js",
     "static/js/3.5c32644e.chunk.js.map": "/static/js/3.5c32644e.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.2158d86c.chunk.css.map": "/static/css/main.2158d86c.chunk.css.map",
+    "static/css/main.bd275f28.chunk.css.map": "/static/css/main.bd275f28.chunk.css.map",
     "static/js/2.dc437ead.chunk.js.LICENSE.txt": "/static/js/2.dc437ead.chunk.js.LICENSE.txt",
     "static/media/csa.55db496e.gif": "/static/media/csa.55db496e.gif",
     "static/media/dbeaver.662146d9.png": "/static/media/dbeaver.662146d9.png",
+    "static/media/landing-page.917ecc22.png": "/static/media/landing-page.917ecc22.png",
     "static/media/onvio-documents.58542806.png": "/static/media/onvio-documents.58542806.png",
     "static/media/onvio-practice.32b06cbd.png": "/static/media/onvio-practice.32b06cbd.png",
     "static/media/portrait-transparent.d6ead452.png": "/static/media/portrait-transparent.d6ead452.png",
@@ -24,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.ba905040.js",
     "static/js/2.dc437ead.chunk.js",
-    "static/css/main.2158d86c.chunk.css",
-    "static/js/main.a4b5c201.chunk.js"
+    "static/css/main.bd275f28.chunk.css",
+    "static/js/main.2565ad09.chunk.js"
   ]
 }
