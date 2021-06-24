@@ -1,22 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.00f38697.chunk.css",
-    "main.js": "/static/js/main.2b438f29.chunk.js",
-    "main.js.map": "/static/js/main.2b438f29.chunk.js.map",
+    "main.js": "/static/js/main.5117f97f.chunk.js",
+    "main.js.map": "/static/js/main.5117f97f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ba905040.js",
     "runtime-main.js.map": "/static/js/runtime-main.ba905040.js.map",
-    "static/js/2.c9e4ebb6.chunk.js": "/static/js/2.c9e4ebb6.chunk.js",
-    "static/js/2.c9e4ebb6.chunk.js.map": "/static/js/2.c9e4ebb6.chunk.js.map",
+    "static/js/2.32bc3d7f.chunk.js": "/static/js/2.32bc3d7f.chunk.js",
+    "static/js/2.32bc3d7f.chunk.js.map": "/static/js/2.32bc3d7f.chunk.js.map",
     "static/js/3.5c32644e.chunk.js": "/static/js/3.5c32644e.chunk.js",
     "static/js/3.5c32644e.chunk.js.map": "/static/js/3.5c32644e.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.00f38697.chunk.css.map": "/static/css/main.00f38697.chunk.css.map",
-    "static/js/2.c9e4ebb6.chunk.js.LICENSE.txt": "/static/js/2.c9e4ebb6.chunk.js.LICENSE.txt",
+    "static/js/2.32bc3d7f.chunk.js.LICENSE.txt": "/static/js/2.32bc3d7f.chunk.js.LICENSE.txt",
     "static/media/chegg.4b05a064.jpeg": "/static/media/chegg.4b05a064.jpeg",
     "static/media/csa.55db496e.gif": "/static/media/csa.55db496e.gif",
     "static/media/dbeaver.662146d9.png": "/static/media/dbeaver.662146d9.png",
     "static/media/landing-page.917ecc22.png": "/static/media/landing-page.917ecc22.png",
+    "static/media/onvio-documents-client-documents.e2ef7826.png": "/static/media/onvio-documents-client-documents.e2ef7826.png",
     "static/media/onvio-documents.58542806.png": "/static/media/onvio-documents.58542806.png",
+    "static/media/onvio-practice-billing.ef913e5f.png": "/static/media/onvio-practice-billing.ef913e5f.png",
+    "static/media/onvio-practice-detail-billing.a1ffe416.png": "/static/media/onvio-practice-detail-billing.a1ffe416.png",
     "static/media/onvio-practice.32b06cbd.png": "/static/media/onvio-practice.32b06cbd.png",
     "static/media/portrait-transparent.d6ead452.png": "/static/media/portrait-transparent.d6ead452.png",
     "static/media/portrait.3333c5e5.jpg": "/static/media/portrait.3333c5e5.jpg",
@@ -25,8 +28,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ba905040.js",
-    "static/js/2.c9e4ebb6.chunk.js",
+    "static/js/2.32bc3d7f.chunk.js",
     "static/css/main.00f38697.chunk.css",
-    "static/js/main.2b438f29.chunk.js"
+    "static/js/main.5117f97f.chunk.js"
   ]
 }
